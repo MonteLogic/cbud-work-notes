@@ -49,3 +49,20 @@ http://localhost:3000/main/create-org
 ## Employees input for Clerk.
 
 Also, there should be an amount of employees input box.
+
+## Start: Sun Feb 23 2025 10:01:19 CST
+
+### Working on issue200
+
+Fresh install should be usable from the start #200
+
+### ...
+
+The org switcher only seems to show the org switcher when there's no payment.
+
+When it switches it stays with the paid one.
+
+### ...
+
+Why the sign-in url:
+href={process.env.NEXT_PUBLIC_CLERK_SIGN_IN_URL ?? '/sign-in'}
