@@ -13,15 +13,9 @@ Page app/main/schedule/page.tsx
 
 Solution:
 
-You are not a part of an organization, start CBud, or request invitation from another group, to an organization. 
+You are not a part of an organization, start CBud, or request invitation from another group, to an organization.
 
 There should be a counter, if within 10 seconds, they don't click request then go onto create organization.
-
-
-
-
-
-
 
 So it should be:
 
@@ -60,8 +54,10 @@ When it switches it stays with the paid one.
 Why the sign-in url:
 href={process.env.NEXT_PUBLIC_CLERK_SIGN_IN_URL ?? '/sign-in'}
 
+We also have the problem of, they already might be an a functional org but they choose to make a new one anyway. So there should be an org switch as one of the options on an empty 'main/schedule'.
 
+## Start: Sun Mar 02 2025 10:26:47 CST
 
-We also have the problem of, they already might be an a functional org but they choose to make a new one anyway. So there should be an org switch as one of the options on an empty 'main/schedule'. 
+Running ads on CBud today.
 
-
+I swear, I forget, so much stuff, maybe cause I'm getting dumber or whatever, but if we could have a better visual manager for all this work, it would go down way smoother.
