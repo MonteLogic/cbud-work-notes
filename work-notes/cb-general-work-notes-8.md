@@ -61,3 +61,7 @@ We also have the problem of, they already might be an a functional org but they 
 Running ads on CBud today.
 
 I swear, I forget, so much stuff, maybe cause I'm getting dumber or whatever, but if we could have a better visual manager for all this work, it would go down way smoother.
+
+Okay, so I ran some ads, on Facebook, which are ads meant to get leads, I'm going to wait for those leads and while I do that I'm going to work on codeboard.js.
+
+
