@@ -2,3 +2,8 @@
 
 
 Okay, so the onboarding is whack so I think make an Excalidraw for the onboarding process. 
+
+
+## Start: Sun Mar 09 2025 12:27:51 CDT
+
+The onboarding is making a Lorem Ipsum route.
