@@ -8,3 +8,7 @@ Okay, the work notes should be kind of like Gist and like Git at the same time, 
 
 
 I want it to be on a website you like host but the issue is that, I'm broke and so are a lot of new devs so it needs to be cheap.
+
+
+Side side notes: 
+Chess is not a good game for pre-coding because I have been playing Chess all day and I still don't feel like coding.
