@@ -81,3 +81,8 @@ When I'm on a certain menu item, I want that item to be highlighted.
 The background color on the home landing page looks 'mad smooth' would like this color scheme for the blog as well. 
 
 
+## Start: Thu Mar 13 2025 13:04:35 CDT
+
+Got some UI issues, going to focus on adding Employees.
+
+Got the simple adding of employees good now just need to focus on adding employees from /employees, may just be the modal added to the page and that's it. 
